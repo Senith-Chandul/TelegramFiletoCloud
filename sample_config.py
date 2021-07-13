@@ -1,6 +1,6 @@
 class Config:
     BOT_USE = False
-    BOT_TOKEN = ''                         # from @botfather
-    APP_ID =                               # from https://my.telegram.org/apps
-    API_HASH = ''                          # from https://my.telegram.org/apps
+    BOT_TOKEN = ''
+    APP_ID =
+    API_HASH = ''
     AUTH_USERS = []
