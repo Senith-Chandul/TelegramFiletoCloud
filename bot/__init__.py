@@ -41,6 +41,6 @@ except KeyError:
 
 class Msg:
     source = "\nThanks For Choosing my bot"
-    start = "\n<b>This bot uploads telegram files to MixDrop.co,File.io.\nAdmin: @thankappan369</b>"
-    error = "something is went wrong\n{error} \ncontact admin @SenithChandul"
+    start = "\n<b>This bot uploads telegram files to MixDrop.co,File.io.\nAdmin : @SenithChandul</b>"
+    error = "something is went wrong\n{error} \ncontact Admin : @SenithChandul"
     help = "Usage: <b>Send any file and the bot will upload it to MixDrop.co,File.io</b>"
